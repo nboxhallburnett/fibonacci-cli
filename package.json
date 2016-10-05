@@ -1,6 +1,6 @@
 {
   "name": "fibonacci-cli",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Prints out the fibonacci number at the index provided",
   "main": "cli.js",
   "scripts": {
