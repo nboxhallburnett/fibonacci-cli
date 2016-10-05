@@ -1,4 +1,3 @@
-#! /usr/local/bin/node
 'use strict';
 
 const help = "Usage: fibonacci [index]"
