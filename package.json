@@ -1,0 +1,28 @@
+{
+  "name": "fibonacci-cli",
+  "version": "1.2.0",
+  "description": "Prints out the fibonacci number at the index provided",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fibonacci",
+    "cli"
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/nboxhallburnett/fibonacci-cli.git"
+  },
+  "author": {
+    "name": "Nathan Boxhall-Burnett",
+    "email" : "nboxhallburnett@gmail.com"
+  },
+  "license": "ISC",
+  "bin" : {
+    "fibonacci" : "cli.js"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
