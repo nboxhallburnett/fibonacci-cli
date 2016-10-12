@@ -24,5 +24,6 @@
   },
   "engines": {
     "node": ">=6"
-  }
+  },
+  "preferGlobal": true
 }
